@@ -23,6 +23,7 @@ git clone https://github.com/redoper1/esx_useractive
 - Put it into desired directory in `resources` directory
 
 #### Installation
+- Add `useractive.sql` to your ESX database
 - Add this to the end of your `server.cfg` "`start resources`":
 ```
 start esx_useractive
